@@ -1,0 +1,12 @@
+*.pidb
+Temp
+.DS_Store
+*.userprefs
+Build
+*.unityproj
+*.csproj
+*.booproj
+*.sln
+TestResults
+Library/
+TestResult.xml
